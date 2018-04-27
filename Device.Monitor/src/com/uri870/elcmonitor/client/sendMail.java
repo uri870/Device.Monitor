@@ -25,8 +25,8 @@ public class sendMail {
 		in.close();
 		
 		
-		final String username = "elcmonitor@gmail.com";
-		final String password = "5GS-sQT-weB-PpF";
+		final String username = "test@gmail.com";
+		final String password = "test";
 
 		// setting gmail smtp properties
 		Properties props = new Properties();
